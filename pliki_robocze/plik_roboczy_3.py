@@ -1,0 +1,1 @@
+print('Adrian to tez ja')
